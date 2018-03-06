@@ -1,0 +1,26 @@
+body {
+    margin-bottom: 60px;
+    font-family: 'Open Sans', sans-serif;
+    background: #EEE;
+    color: #777;
+}
+
+.section {
+    margin-top: 200px;
+    text-align: center;
+}
+
+.welcome {
+    font-size: 66px;
+    font-weight: 300;
+
+}
+
+.desc {
+    font-size: 14px;
+    font-style: italic;
+}
+
+.error-template {padding: 40px 15px;text-align: center;}
+.error-actions {margin-top:15px;margin-bottom:15px;}
+.error-actions .btn { margin-right:10px; }

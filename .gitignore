@@ -1,0 +1,8 @@
+.idea/*
+.git/*
+tmp/*
+logs/*
+vendor/*
+build/*
+config.php
+phpunit.xml
